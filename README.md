@@ -1,15 +1,15 @@
 # Análise do preço do combustível no Brasil De Janeiro a Junho de 2024
 
-### 1. Os dados da análise foram pegos diretamente na base de dados do governo [(Clique para ir ao link)](https://dados.gov.br/dados/conjuntos-dados/vendas-de-derivados-de-petroleo-e-biocombustiveis)
+#### 1. Os dados da análise foram pegos diretamente na base de dados do governo [(Clique para ir ao link)](https://dados.gov.br/dados/conjuntos-dados/vendas-de-derivados-de-petroleo-e-biocombustiveis)
 
-### 2. Para realizar essa análise, usei a biblioteca PandaSQL para simular querys que seriam feitas em um banco de dados para realizar a análise, só que nesse caso foram feitas dentro da biblioteca Pandas usando um arquivo xlsx como base de dados
+#### 2. Para realizar essa análise, usei a biblioteca PandaSQL para simular querys que seriam feitas em um banco de dados para realizar a análise, só que nesse caso foram feitas dentro da biblioteca Pandas usando um arquivo xlsx como base de dados
     - O foco principal foi demonstrar minhas habilidades com querys em SQL e com Dataviz no tableau.
 
-### 3. Aqui no repositório há uma análise apenas dos preços da gasolina para que não ficasse repetitivo a análise, já que bastaria apenas alterar o nome do produto para que a mesma análise fosse feita; 
+#### 3. Aqui no repositório há uma análise apenas dos preços da gasolina para que não ficasse repetitivo a análise, já que bastaria apenas alterar o nome do produto para que a mesma análise fosse feita; 
 
-### 4. Para completar essa análise e deixa-lá mais completa, criei uma visualização dos dados na ferramenta Tableau onde além do produto gasolina, podem ser selecionados outros produtos em datas diferentes e também em métricas diferentes (preço Máx, Mín e Méd);
+#### 4. Para completar essa análise e deixa-lá mais completa, criei uma visualização dos dados na ferramenta Tableau onde além do produto gasolina, podem ser selecionados outros produtos em datas diferentes e também em métricas diferentes (preço Máx, Mín e Méd);
 
-### 5. Segue alguns dos resultados:
+#### 5. Segue alguns dos resultados:
 
         - O preço médio geral de venda da gasolina entre os meses de Janeiro e Junho de 2024 foi de R$ 5,78 no Brasil.
 
