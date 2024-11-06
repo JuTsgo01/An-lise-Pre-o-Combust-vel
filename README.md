@@ -6,7 +6,9 @@
 [(Link para ver o dashboard interativo)](https://public.tableau.com/app/profile/clodoaldo.lucio/viz/AnlisesdeCumbustivel/Dashborad?publish=yes)
 
     - O foco principal foi demonstrar minhas habilidades com querys em SQL e com Dataviz no tableau. 
-    
+
+[![Clique para ir ao dashBoard interativo](./Dashboard.png)]([https://link-da-imagem.com](https://public.tableau.com/app/profile/clodoaldo.lucio/viz/AnlisesdeCumbustivel/Dashborad?publish=yes))
+   
 
 #### 3. Aqui no repositório há uma análise apenas dos preços da gasolina para que não ficasse repetitivo a análise, já que bastaria apenas alterar o nome do produto para que a mesma análise fosse feita; 
 
