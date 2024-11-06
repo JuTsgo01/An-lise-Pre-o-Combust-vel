@@ -3,7 +3,10 @@
 #### 1. Os dados da análise foram pegos diretamente na base de dados do governo [(Clique para ir ao link)](https://dados.gov.br/dados/conjuntos-dados/vendas-de-derivados-de-petroleo-e-biocombustiveis)
 
 #### 2. Para realizar essa análise, usei a biblioteca PandaSQL para simular querys que seriam feitas em um banco de dados para realizar a análise, só que nesse caso foram feitas dentro da biblioteca Pandas usando um arquivo xlsx como base de dados
-    - O foco principal foi demonstrar minhas habilidades com querys em SQL e com Dataviz no tableau.
+[(Link para ver o dashboard interativo)](https://public.tableau.com/app/profile/clodoaldo.lucio/viz/AnlisesdeCumbustivel/Dashborad?publish=yes)
+
+    - O foco principal foi demonstrar minhas habilidades com querys em SQL e com Dataviz no tableau. 
+    
 
 #### 3. Aqui no repositório há uma análise apenas dos preços da gasolina para que não ficasse repetitivo a análise, já que bastaria apenas alterar o nome do produto para que a mesma análise fosse feita; 
 
